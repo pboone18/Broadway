@@ -1,0 +1,76 @@
+body {
+/*  width: 1260px;*/
+  background-color: white;
+  margin: 8px;
+/*  background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat; */
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+ .nyc {
+  background-image: url("../images/the-flatiron-building.png");
+  /*width: 1260px;
+  height: 297px;
+  background-repeat: no-repeat;*/
+  color: White;
+
+}
+
+.section {
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  color: White;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.nyc p, a{
+  padding: 3px 0 0 0;
+  color: White;
+
+}
+
+.toc li {
+  list-style-type: none;
+  font-size: 18px;
+  margin: 15px 0 0px 0;
+}
+
+.toc a {
+  color: White;
+}
+
+.footer {
+  text-align: left;
+  background-color: Dimgray;
+}
+
+.footer li {
+  font-size: 11px;
+  list-style-type: none;
+  margin: 15px 0 15px 0;
+  color: White;
+  display: inline;
+}
+
+.footer ul {
+    padding: 0 0 0 5px;
+}
+
+.footer a {
+  color: White;
+  font-size: 18px;
+}
